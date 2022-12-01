@@ -1,70 +1,22 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "We are the champions my friend ",
-      "autoria": "Queen",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Dev",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Diego",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "testando aqui apenas",
-      "autoria": "Gui",
-      "modelo": "modelo3",
-      "id": 4
-    },
-    {
-      "conteudo": "testando aqui apenas",
-      "autoria": "Gui",
-      "modelo": "modelo3",
-      "id": 5
-    },
-    {
-      "conteudo": "testando aqui apenas",
-      "autoria": "Gui",
-      "modelo": "modelo3",
-      "id": 6
-    },
-    {
-      "conteudo": "ebaaaa",
-      "autoria": "Gui",
-      "modelo": "modelo3",
-      "id": 7
-    },
-    {
-      "conteudo": "testando aqui",
-      "autoria": "Gui diego",
-      "modelo": "modelo2",
-      "id": 8
-    },
-    {
-      "conteudo": "Só sei que nada sei",
-      "autoria": "Sócrates",
-      "modelo": "modelo1",
-      "id": 9
-    },
-    {
       "conteudo": "gui",
-      "autoria": "Gui",
+      "autoria": "testando o nome do autor verde",
       "modelo": "modelo2",
-      "id": 10
+      "id": 1
     },
     {
-      "conteudo": "testando uma mensagem padrão pelo aplitcaido",
+      "conteudo": "escreva uma frase aqui",
+      "autoria": "aqui fica o nome do autor",
+      "modelo": "modelo2",
+      "id": 3
+    },
+    {
+      "conteudo": "teste",
       "autoria": "gui",
-      "modelo": "modelo1",
-      "id": 11
+      "modelo": "modelo2",
+      "id": 4
     }
   ]
 }
