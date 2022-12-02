@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "gui",
+      "autoria": "testando o nome do autor verde",
+      "modelo": "modelo2",
+      "id": 1
+    },
+    {
+      "conteudo": "escreva uma frase aqui",
+      "autoria": "aqui fica o nome do autor",
+      "modelo": "modelo2",
+      "id": 3
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "gui",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
